@@ -1,8 +1,8 @@
 /*
 Challenge 11: Three different letters 
-Write a function that accepts two strings, and returns true if they 
+Write a function that accepts two strings, & returns true if they 
 are identical in length but have no more than three different letters, 
-taking case and string order into account. 
+taking case & string order into account. 
 */
 
 

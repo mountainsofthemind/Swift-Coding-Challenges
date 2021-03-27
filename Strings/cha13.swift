@@ -3,8 +3,6 @@ Challenge 13: Run-length encoding
 Write a function that accepts a string as input, 
 then returns how often each letter is repeated 
 in a single run, taking case into account. 
-Tip: This approach is used in a simple lossless compression 
-technique called run-length encoding. 
 */
 
 

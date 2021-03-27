@@ -1,14 +1,11 @@
 /*
 Challenge 9: Find pangrams
-Write a function that returns true if it is given a string 
+Write a function that returns true if it's given a string 
 that is an English pangram, ignoring letter case.
-Tip: A pangram is a string that contains every letter of 
-the alphabet at least once. 
 */
 
 
 func challenge9(input: String) -> Bool {
-
 }
 
 

@@ -2,10 +2,7 @@
 Challenge 4: Does one string contain another? 
 Write your own version of the contains() method on String that
 ignores letter case, & without using the existing contains() method
-Two solutions given
 */
-
-import Foundation
 
 extension String {
 func challenge4a(string: String) -> Bool{
